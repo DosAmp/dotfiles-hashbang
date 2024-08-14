@@ -5,3 +5,6 @@
         protocol = https
 
 # Your own customizations come here
+[user]
+	name = DosAmp
+	email = dosamp@hashbang.sh
