@@ -7,4 +7,3 @@ export VISUAL=$EDITOR
 # make sure this is an interactive session, then start tmux
 [[ $- != *i* ]] && return
 [[ -f "$HOME/.bashrc" ]] && . "$HOME/.bashrc"
-[[ -z "$TMUX" ]] && ~/.tmux_bootstrap
