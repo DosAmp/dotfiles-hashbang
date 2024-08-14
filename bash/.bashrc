@@ -116,3 +116,5 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+LANG=de_DE.UTF-8
